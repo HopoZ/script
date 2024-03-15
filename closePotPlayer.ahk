@@ -1,5 +1,5 @@
 ﻿; 设置快捷键
-!w:: ; 这表示Ctrl+Alt+Q触发下面的代码
+!w:: ; 这表示Alt+W触发下面的代码
     ; 查找并关闭特定软件窗口
     WinClose, % "ahk_exe C:\APP\PotPlayer\PotPlayerMini64.exe" ; 替换YourApplication.exe为目标软件的实际执行文件名
 
