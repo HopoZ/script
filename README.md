@@ -7,3 +7,4 @@ These are the cmd and ahk files I use when managing computer resources.
 
 # run
 很好的github，把文件自动改为LF风格，使我代码不能运行。
+想在windows下跑的记得下载后改掉换行符号识别
