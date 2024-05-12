@@ -3,3 +3,5 @@
 These are the cmd and ahk files I use when managing computer resources.
 
 一些文件我改了ansi编码以在终端显示中文，所以在github上可能显示乱码
+
+很好的github，把文件自动改为LF风格，使我代码不能运行。
