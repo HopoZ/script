@@ -10,7 +10,7 @@ echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
 exit /B
 :gotAdmin
 if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
-echo 鹿脴卤脮路镁脦帽
+echo 关闭服务
 net stop "VMAuthdService"
 net stop "VmwareAutostartService"
 net stop "VMnetDHCP"
